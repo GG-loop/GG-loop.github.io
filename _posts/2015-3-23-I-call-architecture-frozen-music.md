@@ -4,7 +4,7 @@ title: I call architecture frozen music
 ---
 
 INTRODUCTION
-
+ <img src="https://dl-web.dropbox.com/get/bha/website/website/gg-loop.github.io/images/0001-music_of_the_spheres_2.jpg?_subject_uid=16334624&w=AADov5jkamwr-BgwrxoeUikWD-TyYj4hErIBFGx7a27Afw">
 1.Music and Geometry
 
 Music and Geometry are more closely linked than apparent . The interconnected aspects of the two sciences,
