@@ -7,7 +7,7 @@ INTRODUCTION
 
 1.Music and Geometry
 
-Music and Geometry are more closely linked than apparent . The interconnected aspects of the two sciences,
+<p><b>Music</b>.</p> and <p><b>Geometry</b>.</p> are more closely linked than apparent . The interconnected aspects of the two sciences,
 since the beginning of theoretical speculation, have been fundamental for architectural composition.
 The theory of “Number” by Pythagoras revealed fixed relations between simple numbers and musical consonances.
 These proportions were later used to “elevate” architecture. The theory of “Number” was part of a
