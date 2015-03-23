@@ -78,3 +78,11 @@ range, to the stripes on a zebra, or the petals on a flower.
 as primordial. No single phenomenal category can be claimed as the aboriginal principle. We cannot say, in the
 beginning was numbers or in the beginning was symmetry, etc..... They are not themselves the creative power. This
 power is inherent in tone, in sound.”<i/>
+
+4.Questions
+
+
+Vibrational frequency has an immediate effect on water. Since all life on Earth is composed mostly of water
+and since the human body is composed of up to 70% water, any type of vibratory frequency emitted in our
+surroundings has a direct impact on our physical state and vice versa.
+Can the vibrational frequencies of our body affect our environment?
