@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamics of Shape
+title: Dynamics of Matter
 ---
 
 1.Responsiveness of Materials
