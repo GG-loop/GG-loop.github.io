@@ -5,7 +5,7 @@ title: I call architecture frozen music
 
 INTRODUCTION
 
- <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif" alt="fig.1. Visualisation of Musica Universalis Fludd’s De Musica Mundana" style="float:left>
+ <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif" alt="fig.1. Visualisation of Musica Universalis Fludd’s De Musica Mundana">
  
 1.Music and Geometry
 
