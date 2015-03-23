@@ -77,7 +77,7 @@ range, to the stripes on a zebra, or the petals on a flower.
 <i>“The more one studies these things, the more one realizes that sound is the creative principle. It must be regarded
 as primordial. No single phenomenal category can be claimed as the aboriginal principle. We cannot say, in the
 beginning was numbers or in the beginning was symmetry, etc..... They are not themselves the creative power. This
-power is inherent in tone, in sound.”<i/>
+power is inherent in tone, in sound.”</i>
 
 4.Questions
 
