@@ -5,8 +5,6 @@ title: I call architecture frozen music
 
 INTRODUCTION
 
- <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif" alt="fig.1. Visualisation of Musica Universalis Fludd’s De Musica Mundana">
- 
 1.Music and Geometry
 
 Music and Geometry are more closely linked than apparent . The interconnected aspects of the two sciences,
@@ -15,7 +13,11 @@ The theory of “Number” by Pythagoras revealed fixed relations between simple
 These proportions were later used to “elevate” architecture. The theory of “Number” was part of a
 larger theoretical complex, according to which divine perfection manifests itself in all things through the rules
 of harmony. Pythagoras and Plato laid the foundations of this theory: the phenomenical world is linked to
-the metaphysical one through the reflection of the “Musica universalis” (fig.1) upon “the things of the Earth”.
+the metaphysical one through the reflection of the “Musica universalis” 
+
+ <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif" alt="fig.1. Visualisation of Musica Universalis Fludd’s De Musica Mundana">
+ 
+ upon “the things of the Earth”.
 Pythagoras related the length of a rope to the pitch of a sound and consequently used the monochord to explain
 numerical ratios according to the melodic range that they form. Plato illustrated the “Musica universalis”
 in “The Timaeus” and through the Myth of Er in “The Republic”, confirming the Pythagorean thought that the
