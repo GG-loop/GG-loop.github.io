@@ -10,6 +10,7 @@ Main concepts in one field, assume significant meaning within the other: form, s
 sequences of sound and silence, embodies my vision of Architecture: harmonic sequences of full and empty, closed volumes
 and open spaces, light and shadow, evolving in a continuous loop.
 Both fields have the capacity to stimulate all five senses in a Copernican way, the human being the center point." 
+
 Giacomo Garziano </i>
 
 ### Website
