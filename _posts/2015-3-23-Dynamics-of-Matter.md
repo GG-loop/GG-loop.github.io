@@ -64,7 +64,7 @@ the house was generated using an algorithm that imitates bone growth to deposit 
 along lines of stress, resulting in a fibrous web rather than a solid envelope. Cladding materials and roofing
 could be printed as flexible fabrics and be draped over buildings.
 
-<img src=https://libertecture.files.wordpress.com/2014/01/softkill-3d-printed-house.jpg">
+<img src="https://libertecture.files.wordpress.com/2014/01/softkill-3d-printed-house.jpg">
 
 4.Questions
 Nowadays 3D printing technology represents the latest frontier for a new model of living. A paradigm shift has
