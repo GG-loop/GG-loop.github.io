@@ -4,7 +4,9 @@ title: I call architecture frozen music
 ---
 
 INTRODUCTION
- <img src="http://www.davidbowie.com/sites/g/files/g2000002506/f/styles/large/public/201302/1973_sane_cvr_fix_800sq.jpg?itok=h-TUpMU9">
+
+ <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif">
+ 
 1.Music and Geometry
 
 Music and Geometry are more closely linked than apparent . The interconnected aspects of the two sciences,
