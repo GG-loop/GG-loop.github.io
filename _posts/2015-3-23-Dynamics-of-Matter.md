@@ -72,6 +72,7 @@ could be printed as flexible fabrics and be draped over buildings.
 <img src="https://libertecture.files.wordpress.com/2014/01/softkill-3d-printed-house.jpg">
 
 4.Questions
+
 Nowadays 3D printing technology represents the latest frontier for a new model of living. A paradigm shift has
 occurred in the past decades substituting the World-as-Machine view of the industrial revolution, with a more
 holistic perception: the World-as-Organism. This new model inspires a desire to instill intelligence into objects,
