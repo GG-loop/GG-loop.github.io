@@ -1,5 +1,3 @@
-Dynamics of Matter
-
 1.Responsiveness of Materials
 
 As stated in the first part of this essay, matter interacts based on different vibrational frequencies. Smart
