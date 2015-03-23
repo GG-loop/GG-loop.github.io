@@ -10,7 +10,9 @@ energy into thermal energy or heat, that could kill the desired cells without da
 tissue.
 The emerging field of biomimetics has given rise to new technologies created from biologically inspired engineering
 at both the macro scale and nanoscale levels.
-2.molecular manipulation
+
+2.Molecular Manipulation
+
 Biomimicry is a practice based on the examination of nature, its models, systems, processes, and elements to
 emulate, or take inspiration from, in order to solve human challenges. Janine Benjus declared that a holistic
 picture of nature’s systems can be directly applied to our human systems.
@@ -27,3 +29,35 @@ Gabor Forgacs and his team are working on creating functional human tissues usin
 technology. The printed material comes from two ink-jet cartridges. One is filled with cells, the other
 with a hydrogel, which acts as a scaffold. First the hydrogel structure is printed, then the cells onto it. Within
 24-48 hours the cells fuse around the structure to form a usable organ.
+
+3.Synthetic Living-beings
+
+In application of engineering lessons, derived from natural living systems to create artificial materials, enormous
+challenges are being faced. Recently material scientists at the Harvard School of Engineering and Applied
+Sciences have found a way to control the growth behavior of crystals to create precisely tailored structures -
+such as micro-scale flowers- by simply manipulating chemical gradients in a beaker of fluid (fig.18).
+Researches at MIT Media Lab are exploring biological and mechanical properties of synthetic materials
+developing objects and structures inspired by the laws of nature. At the core of Neri Oxman’s visions lies the
+desire to potentiate our bodies and the things around us with an intelligence that will deepen the relationship
+between the objects we use and which we inhabit, and our environment. Cartesian Wax (fig.19) is a prototype
+for an environmentally responsive skin. The work promotes the integration between the structural and
+environmental elements of the skin. The structural elements provide for an optimized distribution of load,
+while the environmental elements allow for the infiltration of light and heat to and from within the skin. Skylar
+Tibbits’ research currently focuses on developing self-assembly technologies for large-scale structures. He
+called “4D printing” the practice of using smart materials to make objects that change shape and evolve. Logic
+Matter (fig.20) is based on the NAND truth table used in computing defining ‘binary’. This offers possibilities in
+terms of self-replication as all the instructions are embedded into the structure or system needing no external
+source. These low level simple bits combine to create a much more complex structural system.
+London architecture team Softkill Design has designed a conceptual 3D printed house (fig.21). The structure of
+the house was generated using an algorithm that imitates bone growth to deposit material where it is needed
+along lines of stress, resulting in a fibrous web rather than a solid envelope. Cladding materials and roofing
+could be printed as flexible fabrics and be draped over buildings.
+
+
+4.Questions
+Nowadays 3D printing technology represents the latest frontier for a new model of living. A paradigm shift has
+occurred in the past decades substituting the World-as-Machine view of the industrial revolution, with a more
+holistic perception: the World-as-Organism. This new model inspires a desire to instill intelligence into objects,
+buildings and cities.
+Can the vibrational frequencies of our body affect our environment? How can we communicate with matter?
+Can matter shape automatically according to our behaviour? Can a space respond intelligently to our needs?
