@@ -13,6 +13,8 @@ Both fields have the capacity to stimulate all five senses in a Copernican way, 
 
 Giacomo Garziano </i>
 
+
+
 ### Website
 
 <a href="http://www.gg-loop.com/">GG-loop.com</a>
