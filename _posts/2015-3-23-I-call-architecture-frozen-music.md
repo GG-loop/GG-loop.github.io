@@ -70,7 +70,7 @@ Most typically used in the design and building of guitars, violins and cellos, C
 the <b>Membrane<b/> (wood, metal, skin for drums) of an instrument is resonating at a given <b>Frequency<b/>.
 The physicist Hans Jenny popularized wave phenomena and the creation of ethereal looking water-sound images.
 
-<img src="http://blog.syti.net/Images/Cymatics.jpg>
+<img src="http://blog.syti.net/Images/Cymatics.jpg">
 
 He revealed how vibration generates dynamic and ordered patterns, describing a sound-matrix at
 work in nature, an invisible driving force that could create everything from the wave-like shape of a mountain
