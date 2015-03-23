@@ -3,7 +3,7 @@ layout: post
 title: I call architecture frozen music
 ---
 
-INTRODUCTION
+
 
 1.Music and Geometry
 
