@@ -22,11 +22,15 @@ Pythagoras related the length of a rope to the pitch of a sound and consequently
 numerical ratios according to the melodic range that they form. Plato illustrated the “Musica universalis”
 in “The Timaeus” and through the Myth of Er in “The Republic”, confirming the Pythagorean thought that the
 soul of man coincides with the soul of the world, both similar in structure and harmony. The considerations on
-the value of Pythagoras’ “Number” and Plato’s geometric solids (fig.2) form the starting point for most of the
-later theories on the subject, in particular the Renaissance Neoplatonism: Vitruvius’ architecture, Dantes’ poetry
-and Boethius’ music. Later, Alberti found in harmonious proportions the link between architecture and music
-(fig.3), as did Palladio (using the new harmonic ratios of the musical consonances introduced by Zarlino),
-reaching up to N.F. Blondel (late seventeenth century) [ 1 ].
+the value of Pythagoras’ “Number” and Plato’s geometric solids 
+
+ <img src="http://static1.squarespace.com/static/5165dbc4e4b035d7482d7812/t/530d40dde4b097f846416a84/1393377503375/daily-25x.jpg">
+ 
+ form the starting point for most of the later theories on the subject, in particular the Renaissance Neoplatonism: Vitruvius’ architecture, Dantes’ poetry and Boethius’ music. Later, Alberti found in harmonious proportions the link between architecture and music, 
+ 
+ <img src="https://socialsciencesalpajes.files.wordpress.com/2014/04/5-1-alberti-santa-maria-novella.jpg">
+ 
+as did Palladio (using the new harmonic ratios of the musical consonances introduced by Zarlino), reaching up to N.F. Blondel (late seventeenth century).
 The harmonic consonances affect the human mind, and through perception of the same harmonies man unites
 with God according to the “Doctrine of the affections”. The leading proponent of this theory is Vincenzo Galilei,
 the father of GaIileo, music theorist of great importance that goes back to the ancient philosophy of Aristotle
