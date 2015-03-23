@@ -17,7 +17,7 @@ the metaphysical one through the reflection of the “Musica universalis”
 
  <img src="https://i1.wp.com/scribalterror.blogs.com/scribal_terror/images/2007/04/20/1cosmicharmony.gif" alt="fig.1. Visualisation of Musica Universalis Fludd’s De Musica Mundana">
  
- upon “the things of the Earth”.
+upon “the things of the Earth”.
 Pythagoras related the length of a rope to the pitch of a sound and consequently used the monochord to explain
 numerical ratios according to the melodic range that they form. Plato illustrated the “Musica universalis”
 in “The Timaeus” and through the Myth of Er in “The Republic”, confirming the Pythagorean thought that the
@@ -67,7 +67,7 @@ on the Chladni plate [Chladni modes] are still in use today by many instrument m
  <img src="http://api.ning.com/files/Lq-MVtloOMAcDz-jvuBy60o2m6qCURECfZQF-YNN0tgyW7JV8rmp1*AXxdCaBZrl8IfDCfkaUTmZagapPe*2FnQO8maR1a80/Figure6.jpg">
  
 Most typically used in the design and building of guitars, violins and cellos, Chladni modes help to visually reveal how
-the <b>Membrane<b/> (wood, metal, skin for drums) of an instrument is resonating at a given <b>Frequency<b/>.
+the <b>Membrane</b> (wood, metal, skin for drums) of an instrument is resonating at a given <b>Frequency</b>.
 The physicist Hans Jenny popularized wave phenomena and the creation of ethereal looking water-sound images.
 
 <img src="http://blog.syti.net/Images/Cymatics.jpg">
