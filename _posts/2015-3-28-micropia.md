@@ -3,7 +3,8 @@ layout: post
 title: Visit to Micropia
 ---
 
-Last Saturday 21st of March, I went to explore this fantastic museum.
+Last Saturday 21st of March, I went to explore this fantastic museum next to the Amsterdam zoo.
+It opened only last year and the exibition is very well presented and all the contents are clearily explained with simple language. You can find out a lot about our microworld. 
 It really deserves a <a href="http://biohackacademy.github.io/biofactory/annex/cultivation-media/">visit</a> !!!
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/187.JPG">
