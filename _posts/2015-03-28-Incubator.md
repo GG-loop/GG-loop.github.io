@@ -4,10 +4,10 @@ title: Incubator
 ---
 
 In this post I'm collecting all the development of the incubator.
-Inspired by the research of Hans Jenny (and Ernst Chaldni of course), because of the geometrical analogy between forms in music and forms in nature, I want to conduct experiment on bacteria cultures exposed to continuous sound emissions.
+Inspired by the research of Hans Jenny (and Ernst Chaldni before of course), I want to conduct experiment on bacteria cultures exposed to continuous sound emissions, because of the geometrical analogy between forms in music and forms in nature, and try to manipulate that.
 
 Below the idea of how the incubator will look like.
-A speaker and ultrasound transducers array will be integrated. 
+A speaker and ultrasound transducers array will be integrated. A LED system and a camera to monitor the growth evolution. 
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/Incubator.JPG">
 
