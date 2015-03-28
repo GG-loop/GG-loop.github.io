@@ -24,7 +24,7 @@ In order to create an organic, adaptive, selfsustaining, hence alive and intelli
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/Syllabus.jpg">
 
-<i>1.Physics: Exploration of sound transmission and possible materialisation.
+<small>1.Physics: Exploration of sound transmission and possible materialisation.
 
 New theories about sound reveal that sound is NOT a wave, but is periodic movements of air molecules bumping into each other in the ‘space-form’ of bubble-like spheroidals. This ‘bubble-in-a-hurry’ leaves a fleeting vibrational imprint on the surface of your body: every cell in the surface tissues of your body actually receives sound patterns from the bubbles that surround you. Although only low frequency sounds can penetrate the interior of our body, when speaking, we continously create infrared light in form of acoustic energy that rapidly expands out of our mouth and rushes away at around 1100 km an hour.
 Studying the different spectra of frequencies emitted by humans, new predefined geometric forms can be derived from the frequency flow.  
