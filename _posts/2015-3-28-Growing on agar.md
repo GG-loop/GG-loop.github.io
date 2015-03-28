@@ -31,7 +31,7 @@ These are cool, huh? Amsterdam's canals offered these algae!
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/017.JPG">
 
-But why does it happen? What's the logic behind this circular geometric growth?
+But how are these shapes generated? What's the logic behind this circular geometric growth?
 Let'c check them on the microscope to find out more!
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/060.JPG">
