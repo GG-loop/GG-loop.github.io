@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Growing on agar
+title: What's growing on the agar?
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/001.JPG">
@@ -24,6 +24,20 @@ title: Growing on agar
 <img src="https://dl.dropboxusercontent.com/u/16334624/064.JPG">
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/067.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/069.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/074.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/076.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/078.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/080.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/082.JPG">
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/086.JPG">
 
 
 
