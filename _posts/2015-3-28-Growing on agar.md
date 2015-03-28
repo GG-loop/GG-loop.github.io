@@ -4,8 +4,11 @@ title: What's growing on the agar?
 ---
 
 Every bacterium or algae or fungi has its own specific conditions in which to grow. 
-Food is important for us as much as nutrients are really important also for them!
+Food is important for us as much as nutrients are really important for them!
 A balanced reciepe is necessary to prepare their living habitat. 
+That is called medium and 
+<a href="http://biohackacademy.github.io/biofactory/annex/cultivation-media/">ere it's our list of cultivation media</a>
+
 
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/001.JPG">
