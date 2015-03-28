@@ -24,22 +24,22 @@ In order to create an organic, adaptive, selfsustaining, hence alive and intelli
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/Syllabus.jpg">
 
-<small>1.Physics: Exploration of sound transmission and possible materialisation.
+<i>1.Physics: Exploration of sound transmission and possible materialisation.
 
-New theories about sound reveal that sound is NOT a wave, but is periodic movements of air molecules bumping into each other in the ‘space-form’ of bubble-like spheroidals. This ‘bubble-in-a-hurry’ leaves a fleeting vibrational imprint on the surface of your body: every cell in the surface tissues of your body actually receives sound patterns from the bubbles that surround you. Although only low frequency sounds can penetrate the interior of our body, when speaking, we continously create infrared light in form of acoustic energy that rapidly expands out of our mouth and rushes away at around 1100 km an hour.
+<i>New theories about sound reveal that sound is NOT a wave, but is periodic movements of air molecules bumping into each other in the ‘space-form’ of bubble-like spheroidals. This ‘bubble-in-a-hurry’ leaves a fleeting vibrational imprint on the surface of your body: every cell in the surface tissues of your body actually receives sound patterns from the bubbles that surround you. Although only low frequency sounds can penetrate the interior of our body, when speaking, we continously create infrared light in form of acoustic energy that rapidly expands out of our mouth and rushes away at around 1100 km an hour.
 Studying the different spectra of frequencies emitted by humans, new predefined geometric forms can be derived from the frequency flow.  
 
-2.Neuro-science: Exploration of the possibilities of direct human communication with organic matter with a focus on the psycho-energy hypothesis by William A. Tiller.
+<i>2.Neuro-science: Exploration of the possibilities of direct human communication with organic matter with a focus on the psycho-energy hypothesis by William A. Tiller.
 
-Our brain measures and identifies objects through geometric proportions and pattern matching. Each one of the principles of Gestalt psychology – continuity, regularity, simplicity, stability and unity – can be explained by the natural patterning of harmonic standing waves as they manifest in human physiology. The Reflective Interference Model, introduced by Richard Merrick, describe how our brain interprets, measures and predicts the outside world.
+<i>Our brain measures and identifies objects through geometric proportions and pattern matching. Each one of the principles of Gestalt psychology – continuity, regularity, simplicity, stability and unity – can be explained by the natural patterning of harmonic standing waves as they manifest in human physiology. The Reflective Interference Model, introduced by Richard Merrick, describe how our brain interprets, measures and predicts the outside world.
 Through the study of behavioural and reactive patterns in animals and humans, neuro-genetic informations can be extracted and applied. Based on this organic stimuli patterns organic membranes reactive to human behaviour can be created.
 
-3.Bio-chemical engineering: Exploration of the possibilities of organic matter to responde to both environamental and human impulses.
+<i>3.Bio-chemical engineering: Exploration of the possibilities of organic matter to responde to both environamental and human impulses.
 
-Recent research on molecular and genetic manipulation, as discussed in the preceeding paragraphs, represent the true frontier of current innovation.
+<i>Recent research on molecular and genetic manipulation, as discussed in the preceeding paragraphs, represent the true frontier of current innovation.
 Organic natural phenomena like bio-luminescence, colour changing, and so on can be replicated in biosynthetic membranes, containing those very properties. According to the Reaction–diffusion system by Alan Turing, the father of Artificial Intelligence, controlled growth of those membranes could be possible among complex rational patterns. Artificially structured materials can be designed to interact with and control electromagnetic waves.
 
-4.Architecture: The smallest common denominator of this research leads to explore the sound as creative generative impulse. 
+<i>4.Architecture: The smallest common denominator of this research leads to explore the sound as creative generative impulse. 
 Codification, factorisation and crystalisation of sound as vibratory frequency in the Hilbert space may reveal a new source of harmonic space composition. 
 </i>
 
