@@ -24,7 +24,7 @@ In order to create an organic, adaptive, selfsustaining, hence alive and intelli
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/Syllabus.jpg">
 
-<small>1.Physics: Exploration of sound transmission and possible materialisation.
+<p><small>1.Physics: Exploration of sound transmission and possible materialisation.
 
 New theories about sound reveal that sound is NOT a wave, but is periodic movements of air molecules bumping into each other in the ‘space-form’ of bubble-like spheroidals. This ‘bubble-in-a-hurry’ leaves a fleeting vibrational imprint on the surface of your body: every cell in the surface tissues of your body actually receives sound patterns from the bubbles that surround you. Although only low frequency sounds can penetrate the interior of our body, when speaking, we continously create infrared light in form of acoustic energy that rapidly expands out of our mouth and rushes away at around 1100 km an hour.
 Studying the different spectra of frequencies emitted by humans, new predefined geometric forms can be derived from the frequency flow.  
@@ -40,7 +40,7 @@ Recent research on molecular and genetic manipulation, as discussed in the prece
 Organic natural phenomena like bio-luminescence, colour changing, and so on can be replicated in biosynthetic membranes, containing those very properties. According to the Reaction–diffusion system by Alan Turing, the father of Artificial Intelligence, controlled growth of those membranes could be possible among complex rational patterns. Artificially structured materials can be designed to interact with and control electromagnetic waves.
 
 4.Architecture: The smallest common denominator of this research leads to explore the sound as creative generative impulse. 
-Codification, factorisation and crystalisation of sound as vibratory frequency in the Hilbert space may reveal a new source of harmonic space composition. </small>
+Codification, factorisation and crystalisation of sound as vibratory frequency in the Hilbert space may reveal a new source of harmonic space composition. </small></p>
 
 Combination and interaction between the research in 1,2 and 3 will allow to create an interactive, cohesive harmonic space.
 Through the study of models in nature, prototypes of integrative, self-assembling, self-organizing architectonical structures can be created.  Self healing properties of skin and bone cells, self similarity of molecular and macro structures of crystals and plants are examples of the phenomena to be be examined. Geometric, self-supportive models can be derived, developed through digital analysis and prototyping (Harmonic Lattice, Buckminster Fuller’s Tensegrity, Fractal Geometry Systems, Minimal Surfaces, etc.). Opportunities of new organic materials like graphene and its extraordinary molecular regular pattern, have to be tested on applicability.
