@@ -12,6 +12,7 @@ A speaker and ultrasound transducers array will be integrated. A LED system and 
 <img src="https://dl.dropboxusercontent.com/u/16334624/Incubator.JPG">
 
 I quickly tested the power of them with a Britney Spears' song. You can shoot sound at one precise point on a long distance
+
 <img src="https://dl.dropboxusercontent.com/u/16334624/120.JPG">
 
 and what the possibilities are:
