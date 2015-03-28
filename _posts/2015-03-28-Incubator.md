@@ -16,6 +16,4 @@ I quickly tested the power of them. You can shoot sound at one precise point 50 
 
 and what the possibilities are:
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" 
-width="640" height="390" src="https://www.youtube.com/watch?v=SdX01XRhb_4"
-frameborder="0" allowFullScreen></iframe>
+<embed src="https://www.youtube.com/watch?v=SdX01XRhb_4">
