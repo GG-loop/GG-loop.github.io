@@ -2,10 +2,12 @@
 layout: post
 title: Resonating Spaces
 ---
-.Introduction
+1.Introduction
 Since early ages man has used intermediary tools to interact with his context: the stone, diligently sculpted became a blade and allowed man to open fruits with a hard surface, to protect himself, to hunt animals. We got used to deploy mechanical or electronic means to shape our environment according to our needs. Due to this attitude our ecosystem has continued to suffer from human intervention and manipulation, mostly beneficial only to our own species. We persistently have constructed devices which gave us the illusion of evolutionary progress, whilst the technological lifespan of the objects we have created is very short, continously increasing an already huge amount of civilization waste. Traditionally we have been educated to generate static functional spaces, which preserve and protect us against external conditions. The ignorant exploitation of natural resources has induced a progressive weakening of our collective consiousness. 
 Since a few decades progressive scientific research projects are achieving extraordinary results regarding the integration of man and its environment.
 We, as human species, are slowly understanding the necessity and advantages of a more harmonious coexistance with our environment. Interdisciplinary reserach is contributing to a more intelligent and organic evolution, creating organic-sintetic mechanisms that are able to adapt to, integrate and balance the needs and constraints of both men and the sourrounding context. Our collective consiousness is growing in line with ever increasing interconnectivity, through the web, social networks and related technological devices. Accordingly the quest for organic interaction with space can be put forward. 
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/PhD_CITA-2013-0529.jpg">
 
 2.The Project
 In the infinite spiral line which links the entire universe to single atoms, between man and nature, a part seems to be missing.
