@@ -23,6 +23,8 @@ Let's take a look at them!
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/159.JPG">
 
+These are cool, huh? Amsterdam's canals offered these algae! 
+
 <img src="https://dl.dropboxusercontent.com/u/16334624/149.JPG">
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/161.JPG">
