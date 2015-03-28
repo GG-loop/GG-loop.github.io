@@ -4,7 +4,7 @@ title: Visit to Micropia
 ---
 
 Last Saturday 21st of March, I went to explore this fantastic museum.
-It really deserves a <a href="http://biohackacademy.github.io/biofactory/annex/cultivation-media/">visit</a>! it's our list of cultivation media.
+It really deserves a <a href="http://biohackacademy.github.io/biofactory/annex/cultivation-media/">visit</a> !!!
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/187.JPG">
 <img src="https://dl.dropboxusercontent.com/u/16334624/188.JPG">
