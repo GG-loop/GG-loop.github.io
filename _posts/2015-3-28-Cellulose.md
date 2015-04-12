@@ -14,4 +14,11 @@ A contamination happened but the 2 species cohabit in the medium.
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/164.JPG">
 
+I am turning upsidedown the kombucha so the contamination doesn't have oxygen anymore, to see if it stops the growth.
+
 <img src="https://dl.dropboxusercontent.com/u/16334624/165.JPG">
+
+
+The assumption was right and after 5 weeks the contamination disappeared
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/023.JPG">
