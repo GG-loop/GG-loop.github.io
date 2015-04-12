@@ -21,6 +21,12 @@ Inspired by the illustrations of Ernst Haeckel, some generative patterns to simu
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/Capture1.jpg">
 
+Testing the pattern print with PLA, simulating the growth of the bio-material
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3626.JPG">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3629.JPG">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3630.JPG">
+
 2015-04-08
 
 Preparing for hacking the Ultimaker with the Syringe System Extruder.
@@ -29,11 +35,7 @@ The system is provided by <a href="http://www.thingiverse.com/thing:21302">mecha
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3624.JPG">
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3625.JPG">
 
-Testing the pattern print with PLA, simulating the growth of the bio-material
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3626.JPG">
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3629.JPG">
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3630.JPG">
 
 
 2015-03-28
