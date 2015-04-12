@@ -19,6 +19,6 @@ I am turning upsidedown the kombucha so the contamination doesn't have oxygen an
 <img src="https://dl.dropboxusercontent.com/u/16334624/165.JPG">
 
 
-The assumption was right and after 5 weeks the contamination disappeared
+The assumption was right and after 5 weeks the contamination almost disappeared
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/023.JPG">
