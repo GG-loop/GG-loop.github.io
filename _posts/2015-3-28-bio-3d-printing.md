@@ -12,6 +12,17 @@ Some tests in Processing to simulate procedural growth
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150411_ProcessingScreenshots/frame_000157-001528_.jpg">
 
+2015-04-11
+
+Inspired by the illustrations of Ernst Haeckel, some generative patterns to simulate organic cellular structures
+
+<img src="http://www.recherche-online.net/wp-content/uploads/2014/05/Bild3b.jpg">
+
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/Capture1.jpg">
+
+
+
 
 2015-03-28
 
