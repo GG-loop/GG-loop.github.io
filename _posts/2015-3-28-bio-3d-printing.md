@@ -7,9 +7,9 @@ In this session all the experiments with the 3d print will be collected and disp
 
 2015-04-11
 Some tests in Processing to simulate procedural growth
-<img src="https://dl.dropboxusercontent.com/u/16334624/frame_001740_.JPG">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150411_ProcessingScreenshots/frame_001740_.jpg">
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/frame_000157-001528_.JPG">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150411_ProcessingScreenshots/frame_000157-001528_.jpg">
 
 
 2015-03-28
