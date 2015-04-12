@@ -3,11 +3,11 @@ layout: post
 title: Cellulose
 ---
 
-Kombucha in tea medium
+Kombucha in tea medium after 3 weeks
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/153.JPG">
 
-Kombucha in glycerole medium. The medium is more transparent even though the growth seems to be slower.
+Kombucha in glycerole medium after 3 weeks. The medium is more transparent even though the growth seems to be slower.
 A contamination happened but the 2 species cohabit in the medium.
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/154.JPG">
