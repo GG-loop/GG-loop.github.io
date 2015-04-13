@@ -20,7 +20,8 @@ Aggregation
 
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-04.JPG">
-Unrolled surface for prototying. Note that, being symmetrical on a dinagonal axis, it has also identical faces.
+
+Unrolled surface for prototying. Note that, being symmetrical on a diagonal axis, it has also identical faces.
 
 
 
