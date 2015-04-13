@@ -5,14 +5,14 @@ title: Bio-3d-printing
 
 In this session all the experiments with the 3d print will be collected and displayed.
 
-2015-04-11
+<p><b>2015-04-11</b></p>
 
 Some tests in Processing to simulate procedural growth
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150411_ProcessingScreenshots/frame_001740_.jpg">
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150411_ProcessingScreenshots/frame_000157-001528_.jpg">
 
-2015-04-11
+<p><b>2015-04-11</b></p>
 
 Inspired by the illustrations of Ernst Haeckel, some generative patterns to simulate organic cellular structures
 
@@ -27,7 +27,7 @@ Testing the pattern print with PLA, simulating the growth of the bio-material
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3629.JPG">
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_updates/IMG_3630.JPG">
 
-2015-04-08
+<p><b>2015-04-08</b></p>
 
 Preparing for hacking the Ultimaker with the Syringe System Extruder.
 The system is provided by <a href="http://www.thingiverse.com/thing:21302">mechadense</a> 
@@ -38,7 +38,7 @@ The system is provided by <a href="http://www.thingiverse.com/thing:21302">mecha
 
 
 
-2015-03-28
+<p><b>2015-03-28</b></p>
 
 Below a sketchy design of the house of the future, as I see it.
 For the moment it's only PLA. 25x18x5cm. Around 4 hours to print.
