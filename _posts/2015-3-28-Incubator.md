@@ -12,16 +12,16 @@ The update on the design process: I wanted something to be fully equipped as dis
 Besides the inner properties I imagined it to be assembled in a multitude of incubators so I thougt about a cellular aggregation. Inspired by a platonic solid, this shape is meant to be replicate infinetely.
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-01.JPG">
-
 Assembling
+
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-02.JPG">
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-03.JPG">
-
 Aggregation
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-04.JPG">
 
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150412_incubator/Incubator-04.JPG">
 Unrolled surface for prototying. Note that, being symmetrical on a dinagonal axis, it has also identical faces.
-<img src="https://dl.dropboxusercontent.com/u/16334624/120.JPG">
+
 
 
 2015-03-28
