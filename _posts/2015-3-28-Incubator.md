@@ -6,7 +6,8 @@ title: Incubator
 In this post I'm collecting all the development of the incubator.
 Inspired by the research of Hans Jenny (and Ernst Chaldni before of course), I want to conduct experiment on bacteria cultures exposed to continuous sound emissions, because of the geometrical analogy between forms in music and forms in nature, and try to manipulate that.
 
-2015-04-12
+<p><b>2015-04-12</b></p>
+
 
 The update on the design process: I wanted something to be fully equipped as displayed in the sketch below.
 Besides the inner properties I imagined it to be assembled in a multitude of incubators so I thougt about a cellular aggregation. Inspired by a platonic solid, this shape is meant to be replicate infinetely.
@@ -26,7 +27,6 @@ Unrolled surface for prototying. Note that, being symmetrical on a diagonal axis
 
 
 <p><b>2015-03-28</b></p>
-2015-03-28
 
 Below the idea of how the incubator will look like.
 A speaker and ultrasound transducers array will be integrated. A LED system and a camera to monitor the growth evolution. 
