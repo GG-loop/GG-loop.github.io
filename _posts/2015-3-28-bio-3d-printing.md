@@ -5,6 +5,8 @@ title: Bio-3d-printing
 
 In this session all the experiments with the 3d print will be collected and displayed.
 
+<img src="https://dl.dropboxusercontent.com/u/16334624/106.JPG">
+
 <p><b>2015-04-11</b></p>
 
 Some tests in Processing to simulate procedural growth
