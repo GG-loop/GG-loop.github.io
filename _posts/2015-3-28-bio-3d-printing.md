@@ -13,7 +13,7 @@ In this session all the experiments with the 3d print will be collected and disp
 While the syringe system has been assembled, Daniele Colombati form Bologna joined the experiment's crew.
 We will work together on this research in the next months. We both are pretty motivated and excited.
 
-<https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13-12.59.59.jpg">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13-12.59.59.jpg">
 
 Some hardcore hacking to lower the bed of the Ultimaker 3dprinter
 
