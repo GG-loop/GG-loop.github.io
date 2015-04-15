@@ -2,10 +2,11 @@
 layout: post
 title: Bio-3d-printing
 ---
+<img src="https://dl.dropboxusercontent.com/u/16334624/106.JPG">
 
 In this session all the experiments with the 3d print will be collected and displayed.
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/106.JPG">
+
 
 <p><b>2015-04-11</b></p>
 
