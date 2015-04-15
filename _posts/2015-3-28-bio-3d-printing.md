@@ -8,20 +8,35 @@ In this session all the experiments with the 3d print will be collected and disp
 
 <p><b>2015-04-14</b></p>
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13%2011.29.39.jpg">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13-11.29.39.jpg">
 
 While the syringe system has been assembled, Daniele Colombati form Bologna joined the experiment's crew.
 We will work together on this research in the next months. We both are pretty motivated and excited.
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13%2012.59.59.jpg">
+<https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-13-12.59.59.jpg">
 
 Some hardcore hacking to lower the bed of the Ultimaker 3dprinter
 
-<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14 11.42.46.jpg">
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-11.42.46.jpg">
 
 We decided to extract the G-code directly form processing in order to produce only lines instead of volumes, and start testing with some jelly-like substances. 
-Viscosity and density are the parameters we had to study.
+Viscosity and density are the parameters we had to study. Before testing agar, we started with potato pure.
 
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-14.56.45.jpg">
+
+Just an octagon to start from, before importing the Gcode for the shapes we want are calculating
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-17.12.14.jpg">
+
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-17.52.02.jpg">
+
+
+<img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-17.53.07.jpg">
+
+
+After "some" iterations, we finally conclude the experiment for today.
+Soon to be tested with agar, trying to control the temperature of the medium of course.
 
 
 <p><b>2015-04-11</b></p>
