@@ -24,7 +24,7 @@ Viscosity and density are the parameters we had to study. Before testing agar, w
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-14.56.45.jpg">
 
-Just an octagon to start from, before importing the Gcode for the shapes we want are calculating
+Just an octagon to start from, before importing the Gcode for the shapes we would like to generate
 
 <img src="https://dl.dropboxusercontent.com/u/16334624/20150415_updates/2015-04-14-17.12.14.jpg">
 
